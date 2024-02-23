@@ -1,0 +1,75 @@
+/* Header.css */
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .header h1 {
+    font-size: 1.8em;
+    margin: 0 0 0 6rem;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-right button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .header-right .btn:hover {
+    background-color: #eee;
+  }
+  
+  .header-icons {
+    display: flex;
+    margin-left: 10px;
+  }
+  
+  .header-icons img {
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+  }
+
+  .header-icons .home{
+    max-height: 15px;
+    width: auto;
+    margin-top: 1px;
+  }
+  
+  .header-right .btn{
+    background-color: orange;
+    border-radius: 40px;
+    color: white;
+  }
+
+  .header-right .help{
+    background-color: blue;
+    border-radius: 40px;
+    color: white;
+  }
+
+  .header-right .link{
+    margin: 0 0 0 0.5rem;
+  }
+
+  .header-right .link a{
+    text-decoration: none;
+  }
