@@ -139,7 +139,7 @@ function Home() {
                 <Tooltip />
                 <Legend />
                 <Line type="monotone" dataKey="Present" stroke="#8884d8" activeDot={{ r: 8 }} />
-                <Line type="monotone" dataKey="Abesnt" stroke="#ff4343" />
+                <Line type="monotone" dataKey="Absent" stroke="#ff4343" />
                 </LineChart>
             </ResponsiveContainer>
 
