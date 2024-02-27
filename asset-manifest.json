@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Smart-School-React/static/css/main.d6cc64cc.css",
-    "main.js": "/Smart-School-React/static/js/main.dd33a49b.js",
+    "main.js": "/Smart-School-React/static/js/main.9b922222.js",
     "static/js/453.fb287e44.chunk.js": "/Smart-School-React/static/js/453.fb287e44.chunk.js",
     "static/media/grid.png": "/Smart-School-React/static/media/grid.2dbbb2402fe3746d0542.png",
-    "static/media/search.png": "/Smart-School-React/static/media/search.4f2d44640473c3634a09.png",
-    "static/media/home.png": "/Smart-School-React/static/media/home.0ff4db141dab2be11b4d.png",
+    "static/media/search.png": "/Smart-School-React/static/media/search.9acffcd54a82f85560a1.png",
+    "static/media/home.png": "/Smart-School-React/static/media/home.aad8c0d6bbe6a63b1c0b.png",
     "index.html": "/Smart-School-React/index.html",
     "main.d6cc64cc.css.map": "/Smart-School-React/static/css/main.d6cc64cc.css.map",
-    "main.dd33a49b.js.map": "/Smart-School-React/static/js/main.dd33a49b.js.map",
+    "main.9b922222.js.map": "/Smart-School-React/static/js/main.9b922222.js.map",
     "453.fb287e44.chunk.js.map": "/Smart-School-React/static/js/453.fb287e44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6cc64cc.css",
-    "static/js/main.dd33a49b.js"
+    "static/js/main.9b922222.js"
   ]
 }
